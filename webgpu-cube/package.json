@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@types/dom-webcodecs": "^0.1.11",
-    "@types/node": "^22.5.3"
+    "@types/node": "^22.5.3",
+    "wgpu-matrix": "^3.0.2"
   }
 }
