@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "typeRoots": ["./node_modules/@webgpu/types", "./node_modules/@types"]
+  },
+  "include": ["src"]
+}
